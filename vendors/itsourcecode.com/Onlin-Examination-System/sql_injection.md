@@ -1,4 +1,4 @@
-# Online Book Store Project v1.0 by itsourcecode.com has SQL injection
+# Onlin Examination System v1.0 by itsourcecode.com has SQL injection
 **Vul_Author:** Wenxun Wang
 
 **vendors:** https://itsourcecode.com/free-projects/php-project/online-examination-system-in-php/
